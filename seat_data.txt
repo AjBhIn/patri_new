@@ -1,0 +1,4 @@
+Amount of selected seats:
+1
+Selected seats:
+D6
